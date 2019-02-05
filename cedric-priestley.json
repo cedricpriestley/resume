@@ -1,40 +1,69 @@
 {
-    name: "Cedric Priestley",
-    title: "Web Developer",
-    location: "New York, NY"
-    phone: "214-506-8217",
-    email: "cedricpriestley@gmail.com",
-    summary: "I am a full-stack web developer with 20 years of professional IT experience using Microsoft and Open Source technologies.",
-    skillset: [
-        { name: "HTTP 1.1", years: 18 } { 2: "HTML 4.1/5", years: 18 },
-        { name: "CSS 2/3", years: 18 },
-        { name: "EMCAScript/JavaScript", years: 18 },
-        { name: "SQL", years: 18 },
-        { name: "JSON", years: 8 },
-        { name: "XML", years: 15 },
-        { name: "Web Services/REST", years: 15 },
-        { name: "Responsive Web Design/Media Queries", years: 8 } { 13: "GiT", years: 8 },
-        { name: "SVN", years: 6 } { 10: "NodeJS", years: 2 },
-        { name: "Angular 2+/TypeScript", years: 2 },
-        { name: "Bootstrap 3/4", years: 4 },
-        { name: "MongoDB 3.4/5", years: 2 },
-        { name: "GraphQL", years: 2 },
-        { name: "Drupal 6/7", years: 6 },
-        { name: "Drupal 8", years: 2 },
-        { name: "SASS/Compass", years: 2 },
-        { name: "Windows", years: 20 },
-        { name: "Linux/Debian", years: 15 },
-        { name: "MacOS", years: 10 } { 18: "MySQL", years: 10 },
-        { name: "PHP", years: 10 },
-        { name: "C#", years: 3 },
-        { name: "VB.NET", years: 5 }
+  "Cedric Priestley": ["Web Developer", "New York, NY", "cedricpriestley@gmail.com", "214-506-8217"],
+  "Summary": "I am a full-stack web developer with 20 years of professional IT experience using Microsoft and Open Source technologies.",
+  "Skillset": [
+    { "HTTP 1.1": { "years": 18 } },
+    { "HTML 4.1/5": { "years": 18 } },
+    { "CSS 2/3": { "years": 18 } },
+    { "EMCAScript/JavaScript": { "years": 18 } },
+    { "SQL": { "years": 18 } },
+    { "JSON": { "years": 8 } },
+    { "XML": { "years": 15 } },
+    { "Web Services/REST": { "years": 15 } },
+    { "Responsive Web Design/Media Queries": { "years": 8 } },
+    { "GiT": { "years": 8 } },
+    { "SVN": { "years": 6 } },
+    { "NodeJS": { "years": 2 } },
+    { "Angular 2+/TypeScript": { "years": 2 } },
+    { "Bootstrap 3/4": { "years": 4 } },
+    { "MongoDB 3.4/5": { "years": 2 } },
+    { "GraphQL": { "years": 2 } },
+    { "Drupal 6/7": { "years": 6 } },
+    { "Drupal 8": { "years": 2 } },
+    { "SASS/Compass": { "years": 2 } },
+    { "Windows": { "years": 20 } },
+    { "Linux/Debian": { "years": 15 } },
+    { "MacOS": { "years": 10 } },
+    { "MySQL": { "years": 10 } },
+    { "MSSQL": { "years": 8 } },
+    { "PHP": { "years": 10 } },
+    { "C#": { "years": 3 } },
+    { "VB.NET": { "years": 5 } }
+  ],
+  "Links": [
+    { "LinkedIn": "http://linkedin.com/in/cedricpriestley" },
+    { "GitHub": "https://github.com/cedricpriestley/demos" }
+  ],
+  "Employment": {
+    "Drupal Developer": ["eKuber/Department of Commerce", "Washington, DC", "Jul 18-Nov 18", {
+      "Tasks": [
+        " - Worked in IT department closely with 10 others including developers, PM, and CTO",
+        " - Upgraded http://commerce.gov from Drupal 7 to Drupal 8",
+        " - Re-implemented single sign-on functionality D8 site",
+        " - Fixed bugs for D8 site's responsive mega menu",
+        " - Redesigned D8 site to use the Context module rather than core Block Layouts for easier site building",
+        " - Reviewed peer code and maintained best coding and security practices",
+        " - Implemented custom ‘Feedback’ module, adding a tab to each node that displays user feedback results",
+        " - Developed, tested and deployed code using GiT/GitLab, D8 configuration and Docker containers",
+        " - Developed in 2 week sprints, often worked in pairs, and attended daily Scrum meetings"
+        ],
+        "Technologies": ["Drupal 8", "HTML", "CSS", "JQuery", "PHP 7.2", "GiT/GitLab", "Docker containers", "MatterMost", "MySQL", "Visual Studio Code", "Linux", "Nginx"]
+      }
     ]
-
-    links: [
-        { title: "LinkedIn", href = "" },
-        { title: "GitHub", href = "" }
-    ]
-    
-    
-
+  },
+  "Technical Lead": ["InfoSys, Ltd/Warner Music Group", "New York, NY", "Nov 17-Jun 18", {
+    "Tasks": [
+      " - Worked in IT department closely with 10 others including developers, PM, and CTO",
+      " - Upgraded http://commerce.gov from Drupal 7 to Drupal 8",
+      " - Re-implemented single sign-on functionality D8 site",
+      " - Fixed bugs for D8 site's responsive mega menu",
+      " - Redesigned D8 site to use the Context module rather than core Block Layouts for easier site building",
+      " - Reviewed peer code and maintained best coding and security practices",
+      " - Implemented custom ‘Feedback’ module, adding a tab to each node that displays user feedback results",
+      " - Developed, tested and deployed code using GiT/GitLab, D8 configuration and Docker containers",
+      " - Developed in 2 week sprints, often worked in pairs, and attended daily Scrum meetings"
+      ],
+      "Technologies": ["Drupal 7/8", "Acquia", "Jira", "Confluence", "Blackmesh", "Angular 2", "REST WS", "Angular", "Ubuntu 16.04", "GiT", "PHP"]
+    }
+  ]
 }
