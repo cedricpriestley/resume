@@ -1,0 +1,40 @@
+{
+    name: "Cedric Priestley",
+    title: "Web Developer",
+    location: "New York, NY"
+    phone: "214-506-8217",
+    email: "cedricpriestley@gmail.com",
+    summary: "I am a full-stack web developer with 20 years of professional IT experience using Microsoft and Open Source technologies.",
+    skillset: [
+        { name: "HTTP 1.1", years: 18 } { 2: "HTML 4.1/5", years: 18 },
+        { name: "CSS 2/3", years: 18 },
+        { name: "EMCAScript/JavaScript", years: 18 },
+        { name: "SQL", years: 18 },
+        { name: "JSON", years: 8 },
+        { name: "XML", years: 15 },
+        { name: "Web Services/REST", years: 15 },
+        { name: "Responsive Web Design/Media Queries", years: 8 } { 13: "GiT", years: 8 },
+        { name: "SVN", years: 6 } { 10: "NodeJS", years: 2 },
+        { name: "Angular 2+/TypeScript", years: 2 },
+        { name: "Bootstrap 3/4", years: 4 },
+        { name: "MongoDB 3.4/5", years: 2 },
+        { name: "GraphQL", years: 2 },
+        { name: "Drupal 6/7", years: 6 },
+        { name: "Drupal 8", years: 2 },
+        { name: "SASS/Compass", years: 2 },
+        { name: "Windows", years: 20 },
+        { name: "Linux/Debian", years: 15 },
+        { name: "MacOS", years: 10 } { 18: "MySQL", years: 10 },
+        { name: "PHP", years: 10 },
+        { name: "C#", years: 3 },
+        { name: "VB.NET", years: 5 }
+    ]
+
+    links: [
+        { title: "LinkedIn", href = "" },
+        { title: "GitHub", href = "" }
+    ]
+    
+    
+
+}
