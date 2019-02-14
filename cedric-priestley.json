@@ -5,14 +5,14 @@
 		"cedricpriestley@gmail.com",
 		"214-506-8217"
 	],
-	"Summary": "A full stack web developer with 20 years of professional IT experience",
+	"Summary": "Full stack web developer with 20 years of professional IT experience",
 	"Skills/Years": [
 		"18 - HTTP 1.1, HTML 4/5, CSS 2/3, JavaScript, SQL",
 		"15 - Linux/Debian, Web Services/REST, XML",
 		"02 - Drupal 8, SASS,Angular 2+, TypeScript, NodeJS, MongoDB 3.4/4, ExpressJS, GraphQL",
 		"03 - JIRA,Confluence",
 		"04 - Bootstrap 4, AWS, VB.NET, ASP, SDLC",
-		"10 - PHP, MySQL, GiT, SSH, SCP, LAMP, XHR",
+		"10 - PHP, MySQL, GiT, SSH, SCP, LAMP, jQuery, XHR",
 		"06 - Drupal 7, C#, SVN",
 		"08 - MSSQL, .NET, ASP.NET, JSON"
 	],
@@ -22,7 +22,7 @@
 	],
 	"Employment": [
 		{
-			"Drupal Developer, eKuber/Deptartment of Commerce, Washington, DC, Jul 18-Nov 18": {
+			"Drupal Developer, eKuber/Deptartment of Commerce, Washington, DC, Jul/18-Nov/18": {
 				"Duties": [
 					"Worked with 10 others (3 developers) in DOC Office of IT",
 					"Upgraded http://commerce.gov from Drupal 7 to Drupal 8",
@@ -36,7 +36,7 @@
 				],
 				"Technologies": "D8, HTML, CSS, JQuery, PHP 7.2, GitLab, Dock, MatterMost, MySQL, Linux, Nginx"
 			},
-			"Technical Lead: InfoSys/Warner Music Group, New York, NY, Nov 17-Jun 18": {
+			"Technical Lead: InfoSys/Warner Music Group, New York, NY, Nov/17-Jun/18": {
 				"Duties": [
 					"Managed Jira tickets",
 					"Attended daily Scrum meetings with WMG management",
@@ -46,11 +46,136 @@
 				],
 				"Technologies": "Drupal 7/8, REST, Acquia & Site Factory, Jira, Confluence, Blackmesh, Angular 2, REST WS, Ubuntu, GiT, PHP"
 			},
-			"Web Developer: IceCap USA, New York, NY, Sept 16-Nov 17": {
+			"Web Developer: IceCap USA, New York, NY, Sept/16-Nov/17": {
 				"Duties": [
-					""
+					"Worked on intranet application for small startup",
+					"Wrote NodeJS REST client to import data from fbo.gov into MongoDB",
+					"Wrote GraphQL/Express/Mongoose/NodeJS API to access imported MongoDB data",
+					"Wrote front-end Angular/Bootstrap application to call and display data from REST API",
+					"Used AWS EC2/Cloud9 for development"
 				],
 				"Technologies": "Angular 4, NodeJS, MongoDB, AWS, REST, Drupal 8, Bootstrap 4, PHP 7, GiT, CSS, HTML, MySQL"
+			},
+			"Drupal Developer: Primacy, New York, NY, Nov/15-Aug/16": {
+				"Duties": [
+					"Led in technical design/implementation of new and existing projects",
+					"Interfaced with clients to identify business requirements",
+					"Recommended new Drupal modules and best practices",
+					"Developed https://yourpathways.com?pin=1234",
+					"Maintained http://www.aetnaacs.com/",
+					"Maintained http://www.carlingtech.com/",
+					"Maintained http://www.billionmilerace.org",
+					"Co-developed several other sites for MIT"
+				],
+				"Technologies": "Drupal 7, PHP 5.6, SVN, JQuery, CSS, HTML, Bootstrap, Jenkins, SASS, mySQL, SSH, AWS S3"
+			},
+			"Associate: ConSol Partners/Sapient SGS, Arlington, VA, Dec/14-Oct/15": {
+				"Duties": [
+					"Worked with management to rewrite ASP sbir.cancer.gov to Drupal 7",
+					"Did front and back implementation",
+					"Adhered to 508/ADA compliancy",
+					"Adhered to security standards",
+					"Used contrib. modules such as Workbench/Workbench Moderation, Features, Omega 3 Theme, Context, Views, Nodequeue, XML Sitemap, Field Collections, Panels, Superfish",
+					"Wrote custom modules and implemented hooks",
+					"Used core, database, and forms API",
+					"Worked with PM and web designer to gather/analyze client requirements",
+					"Wrote build scripts",
+					"Installed configured Solr instance",
+					"Used Confluence/JIRA for collaboration and bug tracking"
+				],
+				"Technologies": "Drupal 7, PHP, Apache Solr, SVN, JQuery, CSS, HTML, SASS, mySQL, SSH, JIRA"
+			},
+			"Drupal Developer: AceInfo Solutions/USDA/NMFS-AKR, Washington, DC, Jun/14-Sept/15": {
+				"Duties": [
+					"Work with developers and management in an agile environment at a government agency to deliver secure, 508-compliant Drupal solutions for fas.usda.gov",
+					"Integrated GovDelivery subscribe feature for fas.usda.gov",
+					"Setup a 3-staging Git environment: Dev/Stage/Prod",
+					"Implemented front-end redesign of fas.usda.gov site.",
+					"Programmatically created Drupal content with attachments",
+					"Wrote custom Drupal 7 modules",
+					"Worked with a developer and a designer to rebuild Alaska Fisheries website",
+					"Converted sbir.cancerr.gov from ASP to Drupal 7",
+					"Themed Drupal website from a PDF mockup using Omega 4",
+					"Used the Migrate module to convert html templates to Drupal content"
+				],
+				"Technologies": "Drupal 7, PHP, Responsive Design, Apache Solr, Git, JQuery, CSS, HTML, GovDelivery, SASS/Compass, SQL Server, IIS, Oracle XE, Linux"
+			},
+			"Drupal Developer: US Tech. Solutions/CNCS, Washington, DC, Dec/13-Sept/15": {
+				"Duties": [
+					"Work with developers and management igovernment agency to deliver secure, 508-compliant Drupal solutions",
+					"Did massive rework of Drupal 7 site to remove PHP code stored database",
+					"Maintained https://nationalserviceresources.gov, http://serve.gov, and https://nationalsecurity.gov",
+					"Documented all work in PowerPoint, Excel, Word, and PDF"
+				],
+				"Technologies": "Drupal 7, PHP, Apache Solr, Git, JQuery, CSS, HTML, MS Office"
+			},
+			"PHP Developer: Arana Interactive, New York, NY, Sept/12-Dec/13": {
+				"Duties": [
+					"Update features on SpiN public website: http://www.spingalactic.com",
+					"Built 'Live Music' for SPiN"
+				],
+				"Technologies": "PHP, MySQL, Git, Eclipse, jQuery, Media Queries, CSS, HTML"
+			},
+			"Sr. PHP Developer: Intstrux(now PixaCore), New York, NY, Feb/12-Feb/13": {
+				"Duties": [
+					"Built a web-based Kiosk application used by oncologists during ASCO and ASH events",
+					"Converted http://cancergoldstandard.org from .NET to Drupal",
+					"Completed conversion of http://ceo-lsc.org and http://ceoroundtableoncancer.org from .NET to Drupal",
+					"Wrote custom modules to created content and users",
+					"Customized Drupal Admin panel writing custom modules",
+					"Used Omega 3 theme for front-end development work",
+					"Wrote custom module to convert web pages to PDF, zip, and email as attachments"
+				],
+				"Technologies": "Wordpress, PHP, MySQL, Drupal 7, SQLite, NetBeans, Git, jQuery, HTML, AJAX, CSS, Google Analytics, SMTP, Apache Solr"
+			},
+			"PHP Software Engineer: Pixafy, New York, NY, Jul/11-Feb/12": {
+				"Duties": [
+					"Built a web-based Kiosk application used by oncologists during ASCO and ASH events",
+					"Converted http://cancergoldstandard.org from .NET to Drupal",
+					"Completed conversion of http://ceo-lsc.org and http://ceoroundtableoncancer.org from .NET to Drupal",
+					"Wrote custom modules to created content and users",
+					"Customized Drupal Admin panel writing custom modules",
+					"Used Omega 3 theme for front-end development work",
+					"Wrote custom module to convert web pages to PDF, zip, and email as attachments"
+				],
+				"Technologies": "PHP, MySQL, Symfony, CodeIgniter, Drupal, SVN, JQuery, AJAX, Facebook & Twitter Integration, Google Charts API, Google Analytics, MailChimp, Luminoso"
+			},
+			"Web Developer: Everhot, Inc., Brooklyn, NY, Mar/11-Jun/12": {
+				"Duties": [
+					"Began pexuniverse.com from Drupal 7 to Magento",
+					"Configured Magento Categories, Products/Attributes, Payment and Shipping services, Shopping Cart rules",
+					"Coded SEO-optimized web pages using semantic HTML & CSS",
+					"Customized templates using the Magento API, PHP, and JavaScript & AJAX",
+					"Wrote Drupal 7 block module with AJAX form to calculate FedEx Shipping rates",
+					"Documented steps to configure and deploy new Magento E-commerce site"
+				],
+				"Technologies": "Magento 1.5, PHP, Wordpress, Drupal 7, MySQL, Windows 7, NetBeans IDE 7, JQuery/UI, AJAX, CSS, HTML"
+			},
+			"Web Developer: Kurland Realty, Inc., New York, NY, Aug/10-Jan/11": {
+				"Duties": [
+					"Maintained the kurlandrealty.com website and agents' admin tool",
+					"Redesigned a portion of the database to allow more than one agent to have the same property",
+					"Added a Testimonial feature to the company website",
+					"Used Google maps to create interface to pinpoint locations for properties",
+					"Provided desktop support for real estate agents",
+					"Used CDO to automate sending weekly emails to the owner of all new properties",
+					"Redesigned UI for property details page for company website"
+				],
+				"Technologies": "Classic ASP, Windows XP, Windows Server 2000, Visual Studio 2008, SQL Server 2005, Stored Procedures, IIS, JQuery, JavaScript, HTML, SEO"
+			},
+			"Web Developer: Lifetopia, New York, NY, Oct/09-Aug/10": {
+				"Duties": [
+					"Developed and maintained applications used by college universities to find roommates",
+					"Implemented security features (XSS, SQL Injections, Data Encryption) in web applications",
+					"Created Web reports using XHTML, CSS, and SQL"
+				],
+				"Technologies": "PHP, MySQL, Classic ASP, SQL Server, Windows XP, Windows Server 2000, Visual Studio 2008, SQL Server 2005, Stored Procedures, IIS, Apache, JQuery, JavaScript, XHTML, SEO, TortoiseSVN"
+			},
+			".NET Web Developer: DFW, TX, Sept/01-Sept/09": {
+				"Duties": [
+					"Various"
+				],
+				"Technologies": "Visual Studio .NET 2008/2005/2003, Windows XP, SQL Server 2000/2005, Stored Procedures, IIS 6, C#, .NET 1.1/2.0/3.5, ASP.NET 2.0/3.5 CSS, JavaScript, XHTML, TortoiseSVN, ADO.NET, XML, XSL, LINQ, WinForms, ASP.NET MVC, VB.NET, SCM, Internet, Relational databases, VB6, VBScript, OOP, MS Access 97-2000, OOD, MS Visio, Crystal Reports for .NET, SFDM, Oracle Database, Microsoft Atlas, ComponentArt, VSS, Dojo Toolkit"
 			}
 		}
 	]
